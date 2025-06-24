@@ -1,4 +1,4 @@
-Image manipulation consist 
+Image manipulation consist wide range of functionalities
 1.Encryption
 2.Decryption
 3.Compression
